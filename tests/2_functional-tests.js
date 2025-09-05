@@ -77,7 +77,7 @@ suite('Functional Tests', function () {
 });
 
 const Browser = require('zombie');
-Browser.site = "https://freecodecampcertificado.onrender.com";
+Browser.site = "https://freecodecamp-ko4z.onrender.com";
 
 suite('Functional Tests with Zombie.js', function () {
     this.timeout(5000);
